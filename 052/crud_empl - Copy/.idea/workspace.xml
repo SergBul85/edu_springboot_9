@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f254d9d7-a19b-4142-8eb1-eb4402ee3bb1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../042/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../043/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../044/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../045/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../046/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../047/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../048/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../049/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../050/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeDAOImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/rest/EmployeeRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/java/com/hstn/crud_empl/service/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../051/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../054/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/src/main/java/com/hstn/crud_empl/CrudEmplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/src/main/java/com/hstn/crud_empl/dao/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/src/main/java/com/hstn/crud_empl/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../055/crud_empl/src/test/java/com/hstn/crud_empl/CrudEmplApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2h184Y9wpbLhJH4zx47puGmQOqS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CrudEmplApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Сергей/Desktop/1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CrudEmplApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="crud_empl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hstn.crud_empl.CrudEmplApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f254d9d7-a19b-4142-8eb1-eb4402ee3bb1" name="Changes" comment="" />
+      <created>1716750034102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716750034102</updated>
+      <workItem from="1716750035746" duration="313000" />
+      <workItem from="1716789247909" duration="9000" />
+      <workItem from="1716790118845" duration="382000" />
+      <workItem from="1716790844028" duration="14000" />
+      <workItem from="1716791351797" duration="412000" />
+      <workItem from="1716801739870" duration="24000" />
+      <workItem from="1716802382617" duration="611000" />
+      <workItem from="1716803115698" duration="477000" />
+      <workItem from="1716809461209" duration="10000" />
+      <workItem from="1716812101442" duration="1572000" />
+      <workItem from="1716832791019" duration="19000" />
+      <workItem from="1716842822214" duration="663000" />
+      <workItem from="1716968800249" duration="14000" />
+      <workItem from="1716971015958" duration="842000" />
+      <workItem from="1717012507894" duration="38000" />
+      <workItem from="1717014620009" duration="1128000" />
+      <workItem from="1717051953931" duration="23000" />
+      <workItem from="1717053307486" duration="996000" />
+      <workItem from="1717092165576" duration="87000" />
+      <workItem from="1717093917508" duration="922000" />
+      <workItem from="1717095252382" duration="46000" />
+      <workItem from="1717095666952" duration="479000" />
+      <workItem from="1717135094536" duration="17000" />
+      <workItem from="1720386610479" duration="93000" />
+      <workItem from="1720386710520" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
